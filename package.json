@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "ava": "3.2.0",
-    "xo": "0.25.3"
+    "xo": "0.28.0"
   },
   "xo": {
     "space": 2,
